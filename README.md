@@ -49,9 +49,7 @@ Procuro sempre aprender novas tecnologias para deixar os ambientes mais escaláv
 
 🎨 Aqui estão alguns dos meus projetos:
 
-1. [Projeto 1](https://github.com/pcbarretos/infra-as-code): Projeto de Infra com Terraform.
-2. [Projeto 2](https://github.com/pcbarretos/wildfly-alpine): Projeto de Criação de Imagem Docker personalizada.
-
+1. [Projeto 1](https://github.com/pcbarreto/infra-with-terraform): Projeto de Infra com Terraform.
 
 ## 📫 Contatos
 
@@ -61,4 +59,4 @@ Procuro sempre aprender novas tecnologias para deixar os ambientes mais escaláv
 [![Dockerhub](https://img.shields.io/badge/-Pcbarreto-gray?style=flat-square&logo=Docker&logoColor=white&link=https://hub.docker.com/r/pcbarreto)](https://hub.docker.com/r/pcbarreto)
 
 
-![Paulo Barreto GitHub stats](https://github-readme-stats.vercel.app/api?username=pcbarretos&show_icons=true&theme=tokyonight)
+![Paulo Barreto GitHub stats](https://github-readme-stats.vercel.app/api?username=pcbarreto&show_icons=true&theme=tokyonight)
