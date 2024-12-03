@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Sr DevOps Engineer">
 </div>
 
-# 🚀 Paulo Barreto - Sr DevOps Engineer 
+# 🚀 Paulo Barreto - Sr DevOps Engineer ![](https://komarev.com/ghpvc/?username=pcbarreto&color=blueviolet&abbreviated=true)
 
 ## Sobre mim
 
